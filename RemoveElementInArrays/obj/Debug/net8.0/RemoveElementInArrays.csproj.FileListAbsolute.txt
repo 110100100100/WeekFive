@@ -1,0 +1,14 @@
+C:\cs\CodeGymT5\RemoveElementInArrays\bin\Debug\net8.0\RemoveElementInArrays.exe
+C:\cs\CodeGymT5\RemoveElementInArrays\bin\Debug\net8.0\RemoveElementInArrays.deps.json
+C:\cs\CodeGymT5\RemoveElementInArrays\bin\Debug\net8.0\RemoveElementInArrays.runtimeconfig.json
+C:\cs\CodeGymT5\RemoveElementInArrays\bin\Debug\net8.0\RemoveElementInArrays.dll
+C:\cs\CodeGymT5\RemoveElementInArrays\bin\Debug\net8.0\RemoveElementInArrays.pdb
+C:\cs\CodeGymT5\RemoveElementInArrays\obj\Debug\net8.0\RemoveElementInArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\CodeGymT5\RemoveElementInArrays\obj\Debug\net8.0\RemoveElementInArrays.AssemblyInfoInputs.cache
+C:\cs\CodeGymT5\RemoveElementInArrays\obj\Debug\net8.0\RemoveElementInArrays.AssemblyInfo.cs
+C:\cs\CodeGymT5\RemoveElementInArrays\obj\Debug\net8.0\RemoveElementInArrays.csproj.CoreCompileInputs.cache
+C:\cs\CodeGymT5\RemoveElementInArrays\obj\Debug\net8.0\RemoveElementInArrays.dll
+C:\cs\CodeGymT5\RemoveElementInArrays\obj\Debug\net8.0\refint\RemoveElementInArrays.dll
+C:\cs\CodeGymT5\RemoveElementInArrays\obj\Debug\net8.0\RemoveElementInArrays.pdb
+C:\cs\CodeGymT5\RemoveElementInArrays\obj\Debug\net8.0\RemoveElementInArrays.genruntimeconfig.cache
+C:\cs\CodeGymT5\RemoveElementInArrays\obj\Debug\net8.0\ref\RemoveElementInArrays.dll
