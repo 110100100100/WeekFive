@@ -1,0 +1,14 @@
+C:\cs\CodeGymT5\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.exe
+C:\cs\CodeGymT5\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.deps.json
+C:\cs\CodeGymT5\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.runtimeconfig.json
+C:\cs\CodeGymT5\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.dll
+C:\cs\CodeGymT5\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.pdb
+C:\cs\CodeGymT5\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\CodeGymT5\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.AssemblyInfoInputs.cache
+C:\cs\CodeGymT5\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.AssemblyInfo.cs
+C:\cs\CodeGymT5\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\cs\CodeGymT5\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.dll
+C:\cs\CodeGymT5\TemperatureConversion\obj\Debug\net8.0\refint\TemperatureConversion.dll
+C:\cs\CodeGymT5\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.pdb
+C:\cs\CodeGymT5\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.genruntimeconfig.cache
+C:\cs\CodeGymT5\TemperatureConversion\obj\Debug\net8.0\ref\TemperatureConversion.dll
