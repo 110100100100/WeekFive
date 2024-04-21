@@ -1,0 +1,14 @@
+C:\cs\CodeGymT5\FindMin\bin\Debug\net8.0\FindMin.exe
+C:\cs\CodeGymT5\FindMin\bin\Debug\net8.0\FindMin.deps.json
+C:\cs\CodeGymT5\FindMin\bin\Debug\net8.0\FindMin.runtimeconfig.json
+C:\cs\CodeGymT5\FindMin\bin\Debug\net8.0\FindMin.dll
+C:\cs\CodeGymT5\FindMin\bin\Debug\net8.0\FindMin.pdb
+C:\cs\CodeGymT5\FindMin\obj\Debug\net8.0\FindMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\CodeGymT5\FindMin\obj\Debug\net8.0\FindMin.AssemblyInfoInputs.cache
+C:\cs\CodeGymT5\FindMin\obj\Debug\net8.0\FindMin.AssemblyInfo.cs
+C:\cs\CodeGymT5\FindMin\obj\Debug\net8.0\FindMin.csproj.CoreCompileInputs.cache
+C:\cs\CodeGymT5\FindMin\obj\Debug\net8.0\FindMin.dll
+C:\cs\CodeGymT5\FindMin\obj\Debug\net8.0\refint\FindMin.dll
+C:\cs\CodeGymT5\FindMin\obj\Debug\net8.0\FindMin.pdb
+C:\cs\CodeGymT5\FindMin\obj\Debug\net8.0\FindMin.genruntimeconfig.cache
+C:\cs\CodeGymT5\FindMin\obj\Debug\net8.0\ref\FindMin.dll
